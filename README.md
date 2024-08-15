@@ -1,5 +1,5 @@
 # Tela01
-Meu primeiro projeto utilizando o Figma para prototipar uma tela
+Meu primeiro projeto utilizando o Figma para prototipar uma tela com as tecnologias HTML e CSS utilizadas para gerar a página web
 
   <figure>
         <a href="https://lapa22.github.io/Tela01/" target="_blank">
